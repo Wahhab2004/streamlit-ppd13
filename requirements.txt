@@ -1,10 +1,9 @@
-streamlit
-pandas
-scikit-learn
-matplotlib
-seaborn
-plotly
-numpy
-scikit-learn-extra
-kmdoids
-distutils
+    streamlit
+    pandas
+    scikit-learn
+    matplotlib
+    seaborn
+    plotly
+    numpy
+    scikit-learn-extra
+    setuptools
