@@ -284,4 +284,4 @@ elif model_choice == "Tampilkan Data Mentah":
 
 # Tambahkan footer
 st.markdown("---")
-st.markdown("Aplikasi Streamlit oleh Gemini.")
+st.markdown("Aplikasi Streamlit oleh Wahhab.")
